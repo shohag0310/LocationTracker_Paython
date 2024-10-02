@@ -3,7 +3,7 @@ import opencage
 import folium
 import webbrowser
 import os
-import requests
+# import requests
 
 from tempfile import NamedTemporaryFile
 from phonenumbers import geocoder
